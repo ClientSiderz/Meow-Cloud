@@ -1,0 +1,235 @@
+MOD:Inventory Manager:false:false
+MOD:RededarkMoment:false:false
+MOD:Setback Detector:false:false
+MOD:Lightning Tracker:true:false
+MOD:Infinite Durability:false:false
+MOD:Inventory Move:false:false
+MOD:Velocity:true:false
+MOD:Kill Aura:false:false
+MOD:Server Crasher:false:false
+MOD:Hacker Detect:false:false
+MOD:Packet Logger:false:false
+MOD:No Slow Down:true:false
+MOD:Name Protect:true:false
+MOD:Chest Stealer:false:false
+MOD:Cake Breaker:false:false
+MOD:Teleport Aura:false:false
+MOD:Target Strafe:true:false
+MOD:No Hurt Cam:true:false
+MOD:Right Clicker:false:false
+MOD:Double Click:false:false
+MOD:Auto Gapple:false:false
+MOD:Chat Bypass:false:false
+MOD:Item Physics:true:false
+MOD:Auto Clicker:false:false
+MOD:Auto Report:false:false
+MOD:Anti Desync:false:false
+MOD:FPS Booster:false:false
+MOD:Key Strokes:false:false
+MOD:Regenerate:false:false
+MOD:Fast Ladder:false:false
+MOD:Auto Armor:false:false
+MOD:Slime Jump:false:false
+MOD:Speed:false:false
+MOD:Auto Leave:false:false
+MOD:Long Jump:false:false
+MOD:Animations:true:false
+MOD:Fake Client:false:false
+MOD:Auto Login:false:false
+MOD:Better Hits:false:false
+MOD:Ping Spoof:false:false
+MOD:No Friends:false:false
+MOD:Auto Soup:false:false
+MOD:Chest ESP:true:false
+MOD:Nametags:false:false
+MOD:Ambience:false:false
+MOD:Anti Strike:false:false
+MOD:No Rotate:true:false
+MOD:Full Bright:true:false
+MOD:Spammer:false:false
+MOD:Inventory:false:false
+MOD:Rotations:true:false
+MOD:Click GUI:false:false
+MOD:Auto Play:false:false
+MOD:Auto GG:true:false
+MOD:Fast Bow:false:false
+MOD:Statistics:false:false
+MOD:Auto Pot:false:false
+MOD:Fast Use:true:false
+MOD:Anti Aim:false:false
+MOD:Scaffold:false:false
+MOD:Disabler:false:false
+MOD:Criticals:false:false
+MOD:Anti Bot:false:false
+MOD:Shooter:false:false
+MOD:Skeletal:true:false
+MOD:Anti Fall:false:false
+MOD:Kill Sult:true:false
+MOD:Target:true:false
+MOD:No Fall:false:false
+MOD:Reach:false:false
+MOD:Phase:false:false
+MOD:Sprint:true:false
+MOD:Timer:false:false
+MOD:Glint:false:false
+MOD:MCF:true:false
+MOD:HUD:true:false
+MOD:ESP:false:false
+MOD:Fly:false:false
+SET:ClickGUI-Design:Click GUI:Dropdown
+SET:ClickGUI-Red:Click GUI:0.0
+SET:ClickGUI-Green:Click GUI:205.0
+SET:ClickGUI-Blue:Click GUI:255.0
+SET:ClickGUI-Scroll:Click GUI:true
+SET:Sprint-Mode:Sprint:Blatant
+SET:KillAura-CPS:Kill Aura:10.0
+SET:KillAura-Range:Kill Aura:3.75
+SET:KillAura-Mode:Kill Aura:Priority
+SET:KillAura-TargetPriority:Kill Aura:Health
+SET:KillAura-AttackMethod:Kill Aura:PRE
+SET:KillAura-ClickMethod:Kill Aura:Packet
+SET:KillAura-AutoBlockMode:Kill Aura:Normal
+SET:KillAura-RotationsMode:Kill Aura:Normal
+SET:KillAura-RotationsStrafe:Kill Aura:off
+SET:KillAura-RotationSmoothness:Kill Aura:2.1
+SET:KillAura-RotationRandomizationVal:Kill Aura:2.0
+SET:KillAura-RotationRandomization:Kill Aura:false
+SET:KillAura-LockAttack:Kill Aura:false
+SET:KillAura-NoHitDelayBreaker:Kill Aura:false
+SET:KillAura-ForcePackets:Kill Aura:false
+SET:KillAura-KeepSprint:Kill Aura:true
+SET:KillAura-Crack:Kill Aura:false
+SET:KillAura-Invis:Kill Aura:false
+SET:KillAura-Players:Kill Aura:true
+SET:KillAura-Animals:Kill Aura:false
+SET:KillAura-Monsters:Kill Aura:false
+SET:KillAura-Villagers:Kill Aura:false
+SET:KillAura-Teams:Kill Aura:false
+SET:KillAura-Dead:Kill Aura:false
+SET:Velocity-Mode:Velocity:Cancel
+SET:Velocity-Horizontal:Velocity:32.0
+SET:Velocity-Vertical:Velocity:100.0
+SET:Speed-Mode:Speed:NCP
+SET:Speed-Speed:Speed:1.0
+SET:AutoArmor-Mode:Auto Armor:Always
+SET:AutoArmor-Delay:Auto Armor:0.0
+SET:ChestStealer-Delay:Chest Stealer:60.0
+SET:FastUse-Mode:Fast Use:NCP
+SET:LongJump-Mode:Long Jump:Bow
+SET:LongJump-Speed:Long Jump:1.0
+SET:LongJump-RedeskySpeed:Long Jump:5.0
+SET:LongJump-RedeskyYJump:Long Jump:4.0
+SET:AntiBot-Mode:Anti Bot:Hypixel
+SET:Animations-Block:Animations:Old
+SET:Animations-HitSlowDown:Animations:false
+SET:Animations-Speed:Animations:1.0
+SET:Fly-Mode:Fly:Motion
+SET:Fly-RedeskyMode:Fly:Fast
+SET:Fly-Speed:Fly:1.0
+SET:Fly-RedeskySpeed:Fly:0.2
+SET:Fly-RedeskyTimer:Fly:0.4
+SET:Fly-RedeskyYHop:Fly:0.5
+SET:Disabler-Mode:Disabler:Mineplex Combat
+SET:Criticals-Mode:Criticals:Ground Spoof
+SET:Criticals-Hurttime:Criticals:14.0
+SET:KillSult-Mode:Kill Sult:Default
+SET:KillSult-Listener:Kill Sult:Packet
+SET:Phase-Mode:Phase:Dev
+SET:Ambience-Time:Ambience:Night
+SET:InventoryManager-Mode:Inventory Manager:OpenInv
+SET:InventoryManager-SortGapples:Inventory Manager:false
+SET:InventoryManager-Sort:Inventory Manager:true
+SET:InventoryManager-Delay:Inventory Manager:120.0
+SET:InventoryManager-MaxBlocks:Inventory Manager:0.0
+SET:InventoryManager-Sort Delay:Inventory Manager:100.0
+SET:HUD-Color:HUD:Astolfo
+SET:HUD-RSaturation:HUD:0.4
+SET:HUD-RBrightness:HUD:1.0
+SET:HUD-Red:HUD:0.0
+SET:HUD-Green:HUD:205.0
+SET:HUD-Blue:HUD:255.0
+SET:HUD-CustomFont:HUD:true
+SET:HUD-Logo:HUD:true
+SET:Logo-Design:HUD:Default
+SET:HUD-ArrayList:HUD:true
+SET:ArrayList-BackgroundDesign:HUD:Outline
+SET:ArrayList-Sort:HUD:Up
+SET:ArrayList-Tag:HUD:Normal
+SET:ArrayList-tnotify:HUD:true
+SET:ArrayList-Background:HUD:true
+SET:ArrayList-Line:HUD:true
+SET:ArrayList-StartY:HUD:0.0
+SET:ArrayList-Y:HUD:10.0
+SET:ArrayList-Count:HUD:10.0
+SET:HUD-Information:HUD:true
+SET:HUD-Scoreboard:HUD:true
+SET:HUD-Hotbar:HUD:true
+SET:AutoClicker-MaxCPS:Auto Clicker:12.0
+SET:AutoClicker-MinCPS:Auto Clicker:8.0
+SET:ESP-Mode:ESP:2D
+SET:ESP-HealthBar:ESP:true
+SET:ESP-HealthBarColor:ESP:Client Color
+SET:ESP-Box:ESP:false
+SET:ESP-ColorSync:ESP:true
+SET:AutoPot-Mode:Auto Pot:Default
+SET:AutoPot-Health:Auto Pot:9.0
+SET:AutoPot-RegenPot:Auto Pot:false
+SET:AutoPot-SpeedPot:Auto Pot:false
+SET:TargetStrafe-Radius:Target Strafe:2.0
+SET:TargetStrafe-Spacebar:Target Strafe:true
+SET:AutoSoup-Health:Auto Soup:9.0
+SET:Scaffold-TimerSpeed:Scaffold:1.11
+SET:Scaffold-Delay:Scaffold:0.0
+SET:Scaffold-ExpandA:Scaffold:0.91
+SET:Scaffold-CustomSpeedV:Scaffold:0.14
+SET:Scaffold-Rotations:Scaffold:Default
+SET:Scaffold-Tower:Scaffold:off
+SET:Scaffold-CustomSpeed:Scaffold:true
+SET:Scaffold-Expand:Scaffold:false
+SET:Scaffold-KeepRots:Scaffold:true
+SET:Scaffold-SafeWalk:Scaffold:true
+SET:Scaffold-Swing:Scaffold:false
+SET:Scaffold-Sprint:Scaffold:true
+SET:Scaffold-Eagle:Scaffold:false
+SET:Scaffold-KeepY:Scaffold:false
+SET:Scaffold-BlockCounter:Scaffold:true
+SET:Scaffold-Timer:Scaffold:false
+SET:AutoGapple-Health:Auto Gapple:9.0
+SET:TargetHUD-CustomFont:Target:true
+SET:TargetHUD-Mode:Target:Default
+SET:TargetHUD-X:Target:550.0
+SET:TargetHUD-Y:Target:300.0
+SET:TPAura-MaxAPS:Teleport Aura:20.0
+SET:TPAura-MinAPS:Teleport Aura:20.0
+SET:TPAura-Range:Teleport Aura:50.0
+SET:TPAura-TargetPriority:Teleport Aura:Health
+SET:TPAura-NoHitDelayBreaker:Teleport Aura:true
+SET:TPAura-Invis:Teleport Aura:false
+SET:TPAura-Players:Teleport Aura:true
+SET:TPAura-Animals:Teleport Aura:false
+SET:TPAura-Monsters:Teleport Aura:false
+SET:TPAura-Villagers:Teleport Aura:false
+SET:TPAura-Teams:Teleport Aura:false
+SET:TPAura-Dead:Teleport Aura:false
+SET:NoFall-Mode:No Fall:Edit
+SET:FastLadder-Mode:Fast Ladder:Vanilla
+SET:FastLadder-Speed:Fast Ladder:1.0
+SET:NoSlow-NCP:No Slow Down:true
+SET:KeyStrokes-X:Key Strokes:1.0
+SET:KeyStrokes-Y:Key Strokes:1.0
+SET:Shooter-MaxCPS:Shooter:5.0
+SET:Shooter-MinCPS:Shooter:4.0
+SET:Regenerate-Packets:Regenerate:30.0
+SET:FakeClient-Mode:Fake Client:Badlion
+SET:RightClicker-MaxCPS:Right Clicker:20.0
+SET:RightClicker-MinCPS:Right Clicker:20.0
+SET:SlimeJump-Boost:Slime Jump:1.0
+SET:Reach-Reach:Reach:3.1
+SET:Timer-TimerSpeed:Timer:1.21
+SET:AntiAim-Mode:Anti Aim:Entity
+SET:AntiAim-Pitch:Anti Aim:90.0
+SET:AntiAim-Jitter:Anti Aim:false
+SET:AntiAim-JitterYaw:Anti Aim:0.0
+SET:AntiAim-JitterYaw2:Anti Aim:0.0
+SET:PingSpoof-Delay:Ping Spoof:0.0
+SET:AntiFall-Mode:Anti Fall:Freeze Y
